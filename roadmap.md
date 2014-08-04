@@ -48,14 +48,14 @@ At the third step the Open-App UI will be connected to live data from the People
 ### 4. Establish further nodes and link the Open-App UI to other Open Linked Data.
 <p align="center"><img src="/images/roadmap-step-4.png?raw=true" width="572" height="387" alt="step-4" ></p>
 
-The ecosystem is born! Other groups can now start their own nodes and share data amongst their own apps (the Shared Database pattern). Nodes can also share and query available data across the entire ecosystem and interoperable databases (the Federated Queries pattern). Users can search Open-App UI for the people in their own node, linked nodes, or linked OpenDatasets (public profile information of the 830k people on DBpedia).
+The ecosystem is born! Other groups can now start their own nodes and share data amongst their own apps. Nodes can also share and query available data across the entire ecosystem and interoperable databases. Users can search Open-App UI for the people in their own node, linked nodes, or linked OpenDatasets (e.g. public profile information of the 830k people on DBpedia).
 
 Apps can also set their own level of particpation:
  1. Integrate further (allow HTTP POST from an Open-App service).
  2. Use Open-App services directly for core functionality (like Cobudget).
  3. Adopt common vocabularies and data formats to permit interoperability (like DBpedia)
 
-
+### 5. Build more Services
 
 
 
