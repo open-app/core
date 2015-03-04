@@ -5,6 +5,7 @@ The Open App Ecosystem is a suite of of integrated and open sourced apps which s
 The aim is for the software to act as a delivery mechanism for cultural viruses which decentralise money, information and control and promote happiness, empowerment and wellbeing throughout an organisation. They also have the side effect of helping organisations become more efficient, resilient and adaptable.
 
 ## Key properties of an app
+
 To be included in the ecosystem an app needs to have the following properties
 
 - **Aligned:** The purpose and intention of the app has deep alignment with the purpose of the ecosystem
@@ -18,9 +19,9 @@ To be included in the ecosystem an app needs to have the following properties
 
 ## The Apps
 
-[This Trello board](https://trello.com/b/Ovx5Pkn7/open-app-overview) has an initial overview of the apps we are working on and over time we will be publishing more code in this github organisation.
-
-- [circles (prototype)](https://github.com/open-app/circles-prototype) - Group definition and management.
+- [Holodex](https://github.com/open-app/holodex) - relates people and groups in a network
+- [Cobudget](https://github.com/open-app/cobudget) - helps groups collaborate on budgets
+- [Loomio](https://github.com/loomio/loomio) - helps groups make better decisions together
 
 ## Learn more
 
