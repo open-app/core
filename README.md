@@ -20,9 +20,7 @@ To be included in the ecosystem an app needs to have the following properties
 
 [This Trello board](https://trello.com/b/Ovx5Pkn7/open-app-overview) has an initial overview of the apps we are working on and over time we will be publishing more code in this github organisation.
 
-- [circles-api (prototype)](https://github.com/open-app/circles-prototype) - Group definition and management.
-- [directory-ui (prototype)](https://github.com/open-app/directory-ui) - UI for interacting with circles.
-- [people-api (prototype)](https://github.com/open-app/people-api) - People app for defining profiles.
+- [circles (prototype)](https://github.com/open-app/circles-prototype) - Group definition and management.
 
 ## Learn more
 
