@@ -30,3 +30,12 @@ The project is very much in its early stages and [our Loomio group](https://www.
 [This mix prize entry](http://www.mixprize.org/story/collaborative-funding-dissolve-authority-empower-everyone-and-crowdsource-smarter-transparent) talks about Enspiral's journey with participatory budgeting and [the backstory of Loomio](http://www.mixprize.org/story/when-business-met-occupy-innovating-true-collaborative-decision-making-and-true-empowerment) which have been direct influencers of this ecosystem.
 
 [This video](https://www.youtube.com/watch?v=Pe_mvnDRyQo) from Enspiral's founder also articulates some of the initial ideas behind the app. 
+
+## Similar Projects 
+
+Other people have been thinking along similar lines. Perhaps we could align and have overlapping ecosystem's?
+
+- [Netention](https://github.com/automenta/netjs)
+- [Popolo Project](https://github.com/opennorth/popolo-spec)
+- [UF6](https://github.com/uf6/design)
+- [Valnet](https://github.com/valnet/valuenetwork) (collaborating)
