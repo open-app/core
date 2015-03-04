@@ -1,17 +1,28 @@
 # Open App Ecosystem
 
-The Open App Ecosystem is a suite of of integrated and open sourced apps which support *commons-based peer production*.
+The Open App Ecosystem is a suite of of integrated and open sourced apps which support *transparent, democratic and decentralised organising*.
 
 The aim is for the software to act as a delivery mechanism for cultural viruses which decentralise money, information and control and promote happiness, empowerment and wellbeing throughout an organisation. They also have the side effect of helping organisations become more efficient, resilient and adaptable.
 
-## Overview
+## Key properties of an app
+To be included in the ecosystem an app needs to have the following properties
 
- 1. [Roadmap](/roadmap.md) - How does the ecosystem work and how will we get there?
+- **Aligned:** The purpose and intention of the app has deep alignment with the purpose of the ecosystem
+- **Open Source:** We are deeply committed to free and open software - AGPL or peer production
+- **Interconnected:** Plays friendly with the other apps, clear APIs and integrations
+- **Quality:** User interfaces and code we are proud to share with the world
+- **Skinnable:** Easy for people to rebrand and reassemble
+- **Supported:** A team of people committed to maintaining the app and supporting its users
+- **Small:** Does one thing only, if it does many things make them separate apps.
+- **Mobile:** Designed to support mobile and web interfaces
 
 ## The Apps
 
-This Document will be updated with further info to help those interested understand the vision and technical details of the ecosytem. [This Trello board](https://trello.com/b/Ovx5Pkn7/open-app-overview) has an initial overview of the microservices and apps we are working on. Check the [top-level org repo](https://github.com/open-app) for the current state of play.
+[This Trello board](https://trello.com/b/Ovx5Pkn7/open-app-overview) has an initial overview of the apps we are working on and over time we will be publishing more code in this github organisation.
 
+- [circles-api (prototype)](https://github.com/open-app/circles-prototype) - Group definition and management.
+- [directory-ui (prototype)](https://github.com/open-app/directory-ui) - UI for interacting with circles.
+- [people-api (prototype)](https://github.com/open-app/people-api) - People app for defining profiles.
 
 ## Learn more
 
@@ -20,18 +31,3 @@ The project is very much in its early stages and [our Loomio group](https://www.
 [This mix prize entry](http://www.mixprize.org/story/collaborative-funding-dissolve-authority-empower-everyone-and-crowdsource-smarter-transparent) talks about Enspiral's journey with participatory budgeting and [the backstory of Loomio](http://www.mixprize.org/story/when-business-met-occupy-innovating-true-collaborative-decision-making-and-true-empowerment) which have been direct influencers of this ecosystem.
 
 [This video](https://www.youtube.com/watch?v=Pe_mvnDRyQo) from Enspiral's founder also articulates some of the initial ideas behind the app. 
-
-
-## Similar Projects 
-
-Other people have been thinking along similar lines. Perhaps we could align and have overlapping ecosystem's?
-
-[Netention](https://github.com/automenta/netjs)
-
-[Popolo Project](https://github.com/opennorth/popolo-spec)
-
-[UF6](https://github.com/uf6/design)
-
-[Valnet](https://github.com/valnet/valuenetwork) (collaborating)
-
-
