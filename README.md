@@ -1,6 +1,6 @@
 # Open App Ecosystem
 
-The Open App Ecosystem is a suite of of integrated and open sourced apps which support *transparent, democratic and decentralised organising*.
+The Open App Ecosystem is a suite of integrated and open sourced apps which support *transparent, democratic and decentralised organising*.
 
 The aim is for the software to act as a delivery mechanism for cultural viruses which decentralise money, information and control and promote happiness, empowerment and wellbeing throughout an organisation. They also have the side effect of helping organisations become more efficient, resilient and adaptable.
 
@@ -14,7 +14,7 @@ To be included in the ecosystem an app needs to have the following properties
 - **Quality:** User interfaces and code we are proud to share with the world
 - **Skinnable:** Easy for people to rebrand and reassemble
 - **Supported:** A team of people committed to maintaining the app and supporting its users
-- **Small:** Does one thing only, if it does many things make them separate apps.
+- **Small:** Does one thing only, if it does many things make them separate apps
 - **Mobile:** Designed to support mobile and web interfaces
 
 ## The Apps
