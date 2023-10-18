@@ -31,6 +31,8 @@ The project is very much in its early stages and [our Loomio group](https://www.
 
 [This video](https://www.youtube.com/watch?v=Pe_mvnDRyQo) from Enspiral's founder also articulates some of the initial ideas behind the app. 
 
+[This Google Doc](https://docs.google.com/document/d/1lfy9Q2OdssTMPm-mZ23UVDutfsCYhH_z0qz1bpsOfco/edit#heading=h.yhpzegbitwar) is also a good write-up of the vision within the context of [Enspiral](https://www.enspiral.com/) at the time
+
 ## Similar Projects 
 
 Other people have been thinking along similar lines. Perhaps we could align and have overlapping ecosystem's?
